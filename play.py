@@ -1,3 +1,5 @@
+import pygame as pygame
+
 from snake import *
 from os import environ
 
